@@ -122,6 +122,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RabinChakraborty/RabinChakraborty/output/snake.svg" alt="Snake animation" />
 
 ###
