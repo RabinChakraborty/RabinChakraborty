@@ -1,5 +1,4 @@
 <h1 align="center">Hey 🔥, I'm Rabin Chakraborty 💪</h1>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fveloxsoftech.com%2Fblog%2Ftop-qualities-to-look-for-in-software-developer%2F&psig=AOvVaw23KS2uOkKFh0frubY1sqFp&ust=1702964017151000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODLnL6hmIMDFQAAAAAdAAAAABAJ" alt="rabinchakraborty" /> </p>
 
 
 <h3 align="center">A Full-Stack developer with expertise in building highly responsive and scalable applications. Proficient in Git, RESTful APIs, and Agile methodologies.</h3>
@@ -17,8 +16,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QgpYd8eKrUfxD-LJLR1GvoL-0Za54GIm/view?usp=sharing](https://drive.google.com/file/d/1QgpYd8eKrUfxD-LJLR1GvoL-0Za54GIm/view?usp=sharing)
 
 - ⚡ Fun fact **I am also a boxer 🥊**
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fboxing-gif-memes&psig=AOvVaw0y8Ad-gb096wvQ_76l8tPp&ust=1702964107835000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODFneihmIMDFQAAAAAdAAAAABAE" alt="boxer" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
