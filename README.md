@@ -4,6 +4,8 @@
 
 <h4 align="center">A Full-Stack developer with expertise in building highly responsive and scalable applications. Proficient in Git, RESTful APIs, and Agile methodologies.</h4>
 
+<h4>I love Open Source</h4>
+
 ###
 
 <img align="left" height="200" src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4701ktj9t32ni4732x1yfpor1822oecf33jz7rmc2f&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
