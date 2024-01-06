@@ -4,7 +4,7 @@
 
 <h4 align="center">A Full-Stack developer with expertise in building highly responsive and scalable applications. Proficient in Git, RESTful APIs, and Agile methodologies.</h4>
 
-<h4>I love Open Source</h4>
+<h4 align="center">I love Open Source</h4>
 
 ###
 
@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+<h4 align='center'>Socials</h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/rabin-chakraborty-935560245" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -34,7 +34,7 @@
 </div>
 
 ###
-
+<h4 align="center">Tech Stacks</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
