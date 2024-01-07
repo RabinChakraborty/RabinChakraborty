@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A Full-Stack developer with expertise in building highly responsive and scalable applications. Proficient in Git, RESTful APIs, and Agile methodologies.</h4>
+<h4 align="center">Versatile Full-Stack Developer adept at constructing highly responsive and scalable applications. Demonstrated proficiency in Git, RESTful APIs, and Agile methodologies.</h4>
 
 <h4 align="center">I love Open Source</h4>
 
